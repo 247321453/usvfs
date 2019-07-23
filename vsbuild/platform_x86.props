@@ -12,7 +12,7 @@
   <PropertyGroup />
   <ItemDefinitionGroup>
 	<Link>
-      <AdditionalLibraryDirectories>$(BOOST_PATH)\lib32-msvc-14.2\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(BOOST_PATH)\lib32-msvc-14.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
